@@ -47,6 +47,6 @@ Create each with the Claude Docs connector. Keep the headings; leave sections em
 - Seed one or two Queued experiments from the setup conversation if anything stood out (e.g. "learns faster from a worked example first than cold": test both ways); otherwise leave it empty. It fills itself from the first session.
 
 **Whiteboard**
-- Tabs: one live tab per subject ("<Subject>": heading, "Board" with "Newest step at the bottom. Answer in chat.", a divider, "Working on", free space, a divider, "How Claude uses this": one line pointing to the skill) · an "Archive" tab, empty, for past session boards.
+- Tabs: one live tab per subject ("<Subject>": heading, "Board" with "Newest step at the bottom. Answer in chat.", a divider, "Working on", free space, a divider, "How Claude uses this": one line pointing to the skill, plus "To finish: switch to text chat and say done") · an "Archive" tab, empty, for past session boards.
 
 **Past-paper library** (made per subject, only when the first paper is extracted): a table of Paper | Year | Extract link | Marking guide, plus a line on where the originals came from.
