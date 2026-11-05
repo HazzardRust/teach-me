@@ -1,6 +1,6 @@
 ---
 name: "teach-me"
-description: "Use whenever I want to study, revise, learn or be taught something (school or uni subjects, exam prep, past papers), including in voice mode, and including requests for exemplars, practice questions or model answers for a subject I'm studying."
+description: "Use whenever I want to learn, study, revise or be taught something (any topic or skill: school or uni subjects, exam prep, professional skills, hobbies, languages, or just curiosity), including in voice mode, and including requests for exemplars, practice questions or model answers for something I'm learning."
 ---
 
 # Teaching me
