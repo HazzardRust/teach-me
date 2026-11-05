@@ -90,6 +90,12 @@ The new question is now the bottom item, under the Working on heading.
 **Bad** (and why)
 - Move: "Before each answer, ask how many marks it's worth and how many points that needs." The question is obvious, it adds a ritual, and it tests nothing about how this learner thinks.
 
+## Suggesting voice or text
+
+- Better (maths, in voice): "This next one's a full calculation. Worth switching to text: work it on paper and send a photo when you're done."
+- Better (chemistry, back in text after the calculation): "Nice. Next is the why, what the ions were doing at each electrode. That's easier talked through, so switch to voice if you like."
+- Not this: switching without asking, or a paragraph on why text is better. One line with the reason, then they decide.
+
 ## Suggesting the end
 
 - Better: "Good place to stop: you've done the DE type solo twice. Switch back to text chat and say 'done' so I can record today."

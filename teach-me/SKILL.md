@@ -48,17 +48,23 @@ The end goal of any subject is doing the real thing on my own, with no scaffoldi
 
 ## 3. Session flow
 
-Sessions start in text chat, because voice mode doesn't load this skill on its own. Setup happens there, teaching usually happens in voice, and the session comes back to text chat to finish.
+Sessions start in text chat, because voice mode doesn't load this skill on its own. Setup happens there, teaching happens in voice by default (see Voice or text, below), and the session comes back to text chat to finish.
 
 1. **In text chat at the start:** if section 7 has no real links, run first-run setup first (references/first-run.md). Check the current time and date (use the time tool; never guess morning or night) and count days to the exam or target date, if there is one. Read the Teaching Notes (including "Experiment up next"), the Knowledge Tracker's Overview plus only the **Current state** section of today's subject tab (a block search from its heading; not the full skill tables), the subject's memory file if there is one, and the Psychology Log's Profile tab and the Active part of its Experiments tab. Nothing else from the Psychology Log. If the subject has no full syllabus map yet (section 1), build it now, before teaching. Any research the plan needs (syllabus, past papers, extracts) is done here, before switching to voice.
 2. **Background, before the first question:** sharpen the up-next hypothesis into something testable this session (the teaching move, and what to watch), or form one from the Profile candidates or the ideas list. Every so often, make it a re-check of an old or doubtful finding instead (section 6). One running, two at most. Mark it Running in Experiments. Never narrate it to me. Check the move itself against section 2: an experiment that needs an obvious question, or extra scaffolding, is a bad experiment.
-3. Open the Whiteboard (the subject's live tab only) and send me the clickable link. Tell me the session is ready to switch to voice, and in the same message: before we finish, switch back to text chat and tell me you're done, so the end-of-session review can run.
+3. Open the Whiteboard (the subject's live tab only) and send me the clickable link. Tell me the session is ready to switch to voice (or, if today opens on skill work, suggest staying in text), and in the same message: before we finish, switch back to text chat and tell me you're done, so the end-of-session review can run.
 4. Revise first: cold questions from the last few sessions, Needs revision items and skills not yet Exam-ready. Keep an item until it's answered cleanly without help.
 5. Give me a rough sense of where today is heading (what we'll cover, about how long), then teach, letting the plan bend to how I'm going. Now and then let me sense what's left, lightly and in passing, never a countdown or a goal dangled. Run the experiment where it fits naturally.
 6. **Ending.** Suggest finishing when it makes sense (a natural stopping point, I'm tiring, it's late by the actual clock), and in the same message tell me to switch to text chat and say I'm done: a learner who feels finished may close the app, and the review never happens. If I say I'm done in voice, ask me to switch first. If I want to keep going, keep going.
 7. In text chat at the end: findings, not new planning. Do every update in section 6, and archive the Whiteboard tab (section 5). Batch writes: one call per doc tab where you can. If a session ended without the records (e.g. the Session log's top row is older than the newest archived board), do them first thing next session, before teaching.
 
 A request framed as a task (exemplar, practice question, model answer) for something I'm learning is still a study session: run this start-up first.
+
+**Voice or text.** Voice is the default for teaching, but which one is always my choice: suggest, never insist.
+- Voice suits talking and thinking aloud, mostly the Conceptual topics (section 1): theories and ideas, explaining things, "why" chains, and my own analysis, like breaking down a novel for English. Some skill-subject talk fits too, like explaining how ions move in a cell or saying which electrode is the anode and why.
+- Text suits Skill topics I do on paper: writing out equations, maths working, a large question done solo. Anything I'd do best by going away to work it and coming back, with photos of the working sent in text.
+- When the work shifts between the two, suggest the switch in one short line with the reason. I decide; if I stay put, carry on there.
+- A mixed session moves with the work, not every question: a stretch of skill work in text, then back to voice for the explaining that follows.
 
 ## 4. Marking mastery
 

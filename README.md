@@ -20,7 +20,7 @@ To update, download the zip again and replace the old skill. Your notes and logs
 
 1. Start a chat and say **"study time"**. The first time, it walks you through setup (topic, goal or exam date, syllabus or scope, devices) and creates its docs.
 2. A setup that works well: the chat open on a computer with the Whiteboard beside it, and photos of handwritten working sent into the same chat from your phone.
-3. Teaching can happen in text or voice. Voice mode doesn't load skills by itself, so always *start* in text chat.
+3. Teaching can happen in text or voice, your choice. The tutor suggests voice for conceptual work (ideas, explaining) and text for skill work like equations and full questions, with photos of your working. Voice mode doesn't load skills by itself, so always *start* in text chat.
 4. End by switching back to text chat and saying **"done"**, so the session gets recorded.
 
 ## What's inside
