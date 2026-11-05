@@ -1,0 +1,25 @@
+name: Release skill
+
+on:
+  push:
+    branches: [main]
+    paths: ["teach-me/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build zip
+        run: zip -r -X teach-me.zip teach-me
+      - name: Publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="v$(date -u +%Y.%m.%d)-${GITHUB_RUN_NUMBER}"
+          NOTES="$(git log -1 --pretty=%B)"
+          gh release create "$TAG" teach-me.zip --title "$TAG" --notes "$NOTES" --latest
