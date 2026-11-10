@@ -1,6 +1,6 @@
 # teach-me
 
-A Claude skill that turns Claude into a tutor for anything you want to learn: a school or uni subject, an exam, a professional skill, a language, a hobby. It plans across sessions toward your goal, tracks what you know against the full scope of the topic (a syllabus dot point by dot point, if you have one), and keeps notes on how you learn. It also runs small experiments on its own teaching, so it gets better at teaching you over time.
+A Claude skill that turns Claude into a tutor for anything you want to learn: a school or uni subject, an exam, a professional skill, a language, a hobby. It plans across sessions toward your goal, tracks what you know against the full scope of the topic (a syllabus dot point by dot point, if you have one), and keeps notes on how you learn. Its aim is to get you there in as little of your time as possible, and it estimates how long things will take from your own pace, in sessions, not from a generic guess in hours. It also runs small experiments on its own teaching, so it gets better at teaching you over time.
 
 ## Get it
 
@@ -9,7 +9,7 @@ A Claude skill that turns Claude into a tutor for anything you want to learn: a 
 - **Claude app (web, desktop or mobile):** upload `teach-me.zip` as a skill in Claude's settings.
 - **Claude Code:** copy the `teach-me/` folder into `~/.claude/skills/`, or clone this repo and symlink it so `git pull` updates it.
 
-To update, download the zip again and replace the old skill. Your notes and logs live in your own Claude docs, so replacing the skill doesn't touch them.
+To update, download the zip again and replace the old skill. Your notes and logs live in your own Claude docs, so replacing the skill doesn't touch them; if the new copy has lost the links to them, it finds the docs again at the next session.
 
 ## Needs
 
@@ -30,6 +30,7 @@ teach-me/
   SKILL.md                  the teaching method
   references/first-run.md   setup and doc templates for a new user
   references/examples.md    worked examples of the key moves
+  references/methods.md     ways of running a session, with real cases
 ```
 
 ## Changes

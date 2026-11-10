@@ -74,7 +74,7 @@ The new question is now the bottom item, under the Working on heading.
 ## Logging a miss (end of session)
 
 **Verbose row (Full session notes)**, specific:
-> 3. "Why does but-2-ene have cis/trans isomers?" He said: "because the groups are on different sides". Right answer: restricted rotation about C=C, plus two different groups on each C. A one-word cue ("rotation?") brought back the first part, and a pointed question brought back the second. Type: Knew it, didn't use it.
+> 3. "Why does but-2-ene have cis/trans isomers?" They said: "because the groups are on different sides". Right answer: restricted rotation about C=C, plus two different groups on each C. A one-word cue ("rotation?") brought back the first part, and a pointed question brought back the second. Type: Knew it, didn't use it.
 
 **Compressed row (Session log)**: "cis/trans reason: restricted rotation left out (Knew it, didn't use it)."
 
